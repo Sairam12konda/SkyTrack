@@ -1,0 +1,12 @@
+FLIGHT,FROM,TO,LEAVE,ARRIVE,COST,SEATS,BOOKED
+123445,bangalore,mumbai,10:40,13:50,5000,300,50
+234567,delhi,chennai,08:30,11:45,7500,250,100
+345678,mumbai,kolkata,09:15,12:30,6000,200,75
+456789,chennai,hyderabad,11:20,14:30,4500,180,90
+567890,kolkata,bangalore,14:10,17:20,5500,220,45
+678901,hyderabad,delhi,13:55,17:05,6500,260,35
+789012,bangalore,mumbai,15:30,18:45,4800,300,80
+890123,delhi,chennai,16:10,19:25,7100,250,10
+901234,mumbai,kolkata,18:45,22:00,5900,200,24
+123456,chennai,hyderabad,20:30,23:40,4200,180,5
+234567,kolkata,bangalore,21:15,00:25,5300,220,0
